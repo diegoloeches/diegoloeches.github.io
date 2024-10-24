@@ -1,0 +1,26 @@
+/* Estilos generales */
+body {
+    background-color: black;
+}
+
+header {
+    text-align: center;
+    background-color: crimson;
+    padding: 10px;
+}
+
+.portada {
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    margin-top: 170px;
+}
+
+footer {
+    background-color: grey;
+    color: white;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0%;
+}
